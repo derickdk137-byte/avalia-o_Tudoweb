@@ -9,7 +9,7 @@
 O sistema também aplica as seguintes validações:
 
 - O nome não pode ficar vazio.
-- A idade deve ser um número inteiro entre **0 e 130 anos**.
+- A idade deve ser um número inteiro entre **0 e 100 anos**.
 - Uma opinião deve ser selecionada antes de registrar a resposta.
 - A pesquisa aceita exatamente **50 respostas** e apresenta o resultado ao concluir esse total.
 
